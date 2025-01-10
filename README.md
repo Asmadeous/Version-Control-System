@@ -1,4 +1,4 @@
-# Rugit: A Git-like Version Control System in Ruby
+# RuGit: A Git-like Version Control System in Ruby
 
 Rugit is a simplified implementation of a version control system, similar to Git, written entirely in Ruby. It's designed as a learning exercise to understand the inner workings of Git and provides a basic set of functionalities for versioning files and directories.
 
